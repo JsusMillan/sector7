@@ -53,6 +53,12 @@ export default function Home() {
                 páginas web, así como posicionamiento en buscadores, social
                 media marketing y desarrollo de software a medida.
               </p>
+              <h2>  <a href="https://adsespecialistas.com/seo-definicion-funciones-y-como-usarlo/?utm_source=Backlink+en+sitio+web+de+Sector+7&utm_campaign=primera+campa%C3%B1a+trueque+de+enlaces+sector+7">
+             <b>Agencia de redacción SEO</b>
+              </a></h2>
+              <p>
+              Nuestro equipo profesional y experimentado de expertos en SEO lo ayudará a clasificar más en sus palabras clave objetivo y obtener un mayor tráfico a su sitio web.
+              </p>
             </div>
             <div className="absolute bottom-0 flex justify-around w-full bg-secondary-60 py-4">
               <div>
